@@ -349,7 +349,7 @@ flann:
 flatbuffers:
   - 24.12.23
 fmt:
-  - '10'
+  - '11'
 fontconfig:
   - 2
 freetype:
