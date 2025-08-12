@@ -927,7 +927,7 @@ soapysdr:
 sox:
   - 14.4.2
 spdlog:
-  - '1.13'
+  - '1.14'
 sqlite:
   - 3
 srm_ifce:
