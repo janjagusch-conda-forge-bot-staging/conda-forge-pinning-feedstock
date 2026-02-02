@@ -768,7 +768,7 @@ openjpeg:
 openjph:
   - '0.18'
 openmpi:
-  - 4
+  - '5'
 openslide:
   - 4
 openssl:
