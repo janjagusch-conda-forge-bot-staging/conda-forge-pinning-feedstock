@@ -247,7 +247,7 @@ assimp:
 attr:
   - 2.5
 aws_c_auth:
-  - 0.8.1
+  - '0.9.4'
 aws_c_cal:
   - 0.8.1
 aws_c_common:
@@ -255,11 +255,11 @@ aws_c_common:
 aws_c_compression:
   - 0.3.0
 aws_c_event_stream:
-  - 0.5.0
+  - '0.5.9'
 aws_c_http:
   - 0.9.2
 aws_c_io:
-  - 0.15.3
+  - '0.24.0'
 aws_c_mqtt:
   - 0.11.0
 aws_c_s3:
@@ -267,9 +267,9 @@ aws_c_s3:
 aws_c_sdkutils:
   - 0.2.2
 aws_checksums:
-  - 0.2.2
+  - '0.2.8'
 aws_crt_cpp:
-  - 0.29.9
+  - '0.36.0'
 aws_sdk_cpp:
   - 1.11.489
 azure_core_cpp:
@@ -907,7 +907,7 @@ s2geography:
 s2geometry:
   - 0.11.1
 s2n:
-  - 1.5.11
+  - '1.6.3'
 sdl2:
   - '2'
 sdl2_image:
